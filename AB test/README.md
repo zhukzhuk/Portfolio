@@ -5,6 +5,7 @@
 #### Навыки и инструменты
 - python
 - pandas
+- А/В тестирование
 - plotly
 - seaborn
 - numpy
